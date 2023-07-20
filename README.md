@@ -12,3 +12,6 @@
 
 This project is made using the code from repository below
 > https://github.com/humanova/rplace-turkey/
+
+Eğer script yazdırmak istiyor iseniz issue açabilir veya benimle profilimden iletişime geçebilirsiniz.
+If you want to print a script, you can open an issue or contact me from my profile.
