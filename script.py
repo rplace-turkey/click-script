@@ -4,10 +4,10 @@
 
 import matplotlib.pyplot as plt
 
-imgpath = ""
-outputpath = ""
-coordinate_x = ""
-coordinate_y = ""
+imgpath = "images/bayrak.png"
+outputpath = "pages/bayrak.html"
+coordinate_x = -368
+coordinate_y = 325
 
 
 ui_scale = 8
@@ -79,7 +79,9 @@ def generate_static_webpage(image_path: str, output_filename: str, top_left: tup
 
     <body style="background-color:#1a1919">
     <div id="pos" class="info">[999,999]</div> 
+    <div>
     {generated}
+    </div>
     </body>
     </html>
     """
