@@ -5,7 +5,7 @@
 import matplotlib.pyplot as plt
 
 imgpath = "images/bayrak.png"
-outputpath = "pages/bayrak.html"
+outputpath = "docs/bayrak.html"
 coordinate_x = -368
 coordinate_y = 325
 
