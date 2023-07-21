@@ -4,10 +4,10 @@
 
 import matplotlib.pyplot as plt
 
-imgpath = "images/bayrak.png"
-outputpath = "docs/bayrak.html"
-coordinate_x = -364
-coordinate_y = 356
+imgpath = "images/burdurland.png"
+outputpath = "docs/burdurland.html"
+coordinate_x = -216
+coordinate_y = 384
 
 
 ui_scale = 8
