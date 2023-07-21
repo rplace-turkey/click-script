@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 
 imgpath = "images/bayrak.png"
 outputpath = "docs/bayrak.html"
-coordinate_x = -368
-coordinate_y = 325
+coordinate_x = -364
+coordinate_y = 317
 
 
 ui_scale = 8
